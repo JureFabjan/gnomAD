@@ -1,6 +1,10 @@
 CLUSTAL
 
 GABRA1          ---------------------------------------------------MRKSPGLSD
+GABRA1_02       ------------------------------MVQVSIASN------ELLQPAMRKSPGLSD
+GABRA1_03       ---------------------------------------------------MRKSPGLSD
+GABRA1_04       ------------------------------MVQVSIASNEVSYPSELLQPAMRKSPGLSD
+GABRA1_05       ---------------------------------------------------MRKSPGLSD
 GABRA2          ---------------------------------------------------MKTKLNIYN
 GABRA2_02       ------------------------------------------------------------
 GABRA2_03       ---------------------------------------------------MKTKLNIYN
@@ -55,11 +59,20 @@ GABRD_08        ------------------------------------------------------------
 GABRD_09        ------------------------------------------------------------
 GABRE           ----------------------MLSKVLPVLLGILLILQSRVEGPQTESKNEASSRDVVY
 GABRP           --------------------------------------------------------MNYS
+GABRP_02        --------------------------------------------------------MNYS
+GABRP_03        --------------------------------------------------------MNYS
+GABRP_04        --------------------------------------------------------MNYS
+GABRP_05        --------------------------------------------------------MNYS
 GABRQ           ----------------------------------MGIRGMLRAAVILLLIRTWLAEGNYP
 GABRR1          --------------------MLAVPNMRFGIFLLWWGWVLATESRMHWPGREVHEMSKKG
 GABRR2          ----------------------------------------MPYFTRLILFLFCLMVLVES
 GABRR3          ----------------------------------MVLAFQLVSFTYIWIILKPNVCAASN
 CHRNA1          ------------------------------------------------------------
+CHRNA1_02       ------------------------------------------------------------
+CHRNA1_04       ------------------------------------------------------------
+CHRNA1_05       ------------------------------------------------------------
+CHRNA1_06       ------------------------------------------------------------
+CHRNA1_03       ------------------------------------------------------------
 CHRNA2          -------------------------------MGPSCPVFLSFTKLSLWWLLLTPAGGEEA
 CHRNA3          -------------------------------------------------------MGSGP
 CHRNA3_02       -------------------------------------------------------MGSGP
@@ -106,6 +119,8 @@ GLRB            -------------------------------------MKFLLTTAFLILISLWVEEAYSK
 5HT3A_04        --------------------------------------------------MLGKLAMLLW
 5HT3A_05        --------------------------------------------------MLGKLAMLLW
 5HT3B           --------------------------------------------------------MLSS
+5HT3B_02        ------------------------------------------------------------
+5HT3B_03        ------------------------------------------------------------
 5HT3C           -----------------------------------------------------MEGGWPA
 5HT3D           ------------------------------------------------------MQKHSP
 5HT3D_02        ------------------------------------------------------------
@@ -120,6 +135,10 @@ GLRB            -------------------------------------MKFLLTTAFLILISLWVEEAYSK
 ZACN            ---------------------------------------------------------MMA
 
 GABRA1          CLWAWILLLSTLTGRSYGQPSL-----------------------------QDELKDNTT
+GABRA1_02       CLWAWILLLSTLTGRSYGQPSL-----------------------------QDELKDNTT
+GABRA1_03       CLWAWILLLSTLTGRSYGQPSL-----------------------------QDELKDNTT
+GABRA1_04       CLWAWILLLSTLTGRSYGQPSL-----------------------------QDELKDNTT
+GABRA1_05       CLWAWILLLSTLTGRSYGQPSL-----------------------------QDELKDNTT
 GABRA2          MQFLLFVFLVWDPARLVLANIQ-----------------------------EDEAKNNIT
 GABRA2_02       ------------------------------------------------------------
 GABRA2_03       MQFLLFVFLVWDPARLVLANIQ-----------------------------EDEAKNNIT
@@ -174,11 +193,20 @@ GABRD_08        ------------------------------------------------------------
 GABRD_09        ------------------------------------------------------------
 GABRE           GPQPQPLENQLLSEETKSTETE-----------------------------TGSRVGKLP
 GABRP           LHLAFVCLSLFTERMCIQGSQF-----------------------------NVEVGRSDK
+GABRP_02        LHLAFVCLSLFTERMCIQGSQF-----------------------------NVEVGRSDK
+GABRP_03        LHLAFVCLSLFTERMCIQGSQF-----------------------------NVEVGRSDK
+GABRP_04        LHLAFVCLSLFTERMCIQGSQF-----------------------------NVEVGRSDK
+GABRP_05        LHLAFVCLSLFTERMCIQGSQF-----------------------------NVEVGRSDK
 GABRQ           SPIPKFHFEFSSAVPEVVLNLF-----------------------------NCKNCANEA
 GABRR1          RPQRQRREVHEDAHKQVSPILR-----------------------------RSPDITKSP
 GABRR2          RKPKRKRWTGQVEMPKPSHLYK-----------------------------KNLDVTKIR
 GABRR3          IKMTHQRCSSSMKQTCKQETRM-----------------------------KKDDSTKAR
 CHRNA1          ------MEPWPLLLLFSLCSAG-----------------------------LVLGSEHET
+CHRNA1_02       ------MEPWPLLLLFSLCSAG-----------------------------LVLGSEHET
+CHRNA1_04       ------MEPWPLLLLFSLCSAG-----------------------------LVLGSEHET
+CHRNA1_05       ------MEPWPLLLLFSLCSAG-----------------------------LVLGSEHET
+CHRNA1_06       ------MEPWPLLLLFSLCSAG-----------------------------LVLGSEHET
+CHRNA1_03       ------------------------------------------------------------
 CHRNA2          KRPPPRAPGDPLSSPSPTALPQ-----------------------------GGSHTETED
 CHRNA3          LSLPLALSPPRLLLLLLLSLLP-----------------------------VARASEAEH
 CHRNA3_02       LSLPLALSPPRLLLLLLLSLLP-----------------------------VARASEAEH
@@ -225,6 +253,8 @@ GLRB            EKSSKKGKGKKKQYLCPSQQSA-----------------------------EDLARVPAN
 5HT3A_04        VQQALLALLLPTLLAQGEARRS-----------------------------RNTTRPALL
 5HT3A_05        VQQALLALLLPTLLAQGEARRS-----------------------------RNTTRPALL
 5HT3B           VMAPLWACIL--VAAGILATDT-----------------------------HHPQDSALY
+5HT3B_02        ---------MIVYFPGILATDT-----------------------------HHPQDSALY
+5HT3B_03        ------------------------------------------------------------
 5HT3C           RQSALLCLTVSLLLQGRGDAFT-----------------------------INCSGFDQH
 5HT3D           GPPALALLSQSLLTTGNGDTLI-----------------------------INCPGFGQH
 5HT3D_02        ------------------------------------------------------------
@@ -239,6 +269,10 @@ GLRB            EKSSKKGKGKKKQYLCPSQQSA-----------------------------EDLARVPAN
 ZACN            LWSLLHLTFLGFSITLLLVHGQ-----------------------------GFQGTAAIW
 
 GABRA1          VFTRILDRLLDGYDNRLRPGLGERVTEVKTDIFVTSFGPVSDHDMEYTIDVFFRQ-----
+GABRA1_02       VFTRILDRLLDGYDNRLRPGLGERVTEVKTDIFVTSFGPVSDHDMEYTIDVFFRQ-----
+GABRA1_03       VFTRILDRLLDGYDNRLRPGLGERVTEVKTDIFVTSFGPVSDHDMEYTIDVFFRQ-----
+GABRA1_04       VFTRILDRLLDGYDNRLRPGLGERVTEVKTDIFVTSFGPVSDHDMEYTIDVF--------
+GABRA1_05       VFTRILDRLLDGYDNRLRPGLGERVTEVKTDIFVTSFGPVSDHDMEYTIDVFFRQ-----
 GABRA2          IFTRILDRLLDGYDNRLRPGLGDSITEVFTNIYVTSFGPVSDTDMEYTIDVFFRQ-----
 GABRA2_02       ---------------MRLKITLPSLREFLTDFWMVTIIGLDQDWEEYTIDVFFRQ-----
 GABRA2_03       IFTRILDRLLDGYDNRLRPGLGDSITEVFTNIYVTSFGPVSDTDMEYTIDVFFRQ-----
@@ -293,11 +327,20 @@ GABRD_08        ------------------------------------------------------------
 GABRD_09        -----------------------------------------------XMTVFLHQ-----
 GABRE           EASRILNTILSNYDHKLRPGIGEKPTVVTVEISVNSLGPLSILDMEYTIDIIFSQ-----
 GABRP           LSLPGFENLTAGYNKFLRPNFGGEPVQIALTLDIASISSISESNMDYTATIYLRQ-----
+GABRP_02        LSLPGFENLTAGYNKFLRPNFGGEPVQIALTLDIASISSISESNMDYTATIYLRQ-----
+GABRP_03        LSLPGFENLTAGYNKFLRPNFGGEPVQIALTLDIASISSISESNMDYTATIYLRQ-----
+GABRP_04        LSLPGFENLTAGYNKFLRPNFGGEPVQIALTLDIASISSISESNMDYTATIYLRQ-----
+GABRP_05        LSLPGFENLTAGYNKFLRPNFGGEPVQIALTLDIASISSISESNMDYTATIYLRQ-----
 GABRQ           VVQKILDRVLSRYDVRLRPNFGGAPVPVRISIYVTSIEQISEMNMDYTITMFFHQ-----
 GABRR1          LTKSEQLLRIDDHDFSMRPGFGGPAIPVGVDVQVESLDSISEVDMDFTMTLYLRH-----
 GABRR2          KGKPQQLLRVDEHDFSMRPAFGGPAIPVGVDVQVESLDSISEVDMDFTMTLYLRH-----
 GABRR3          PQKYEQLLHIEDNDFAMRPGFGGSPVPVGIDVHVESIDSISETNMDFTMTFYLRH-----
 CHRNA1          RLVAKLFKD--YSSVVRPVEDHRQVVEVTVGLQLIQLINVDEVNQIVTTNVRLKQ-----
+CHRNA1_02       RLVAKLFKD--YSSVVRPVEDHRQVVEVTVGLQLIQLINVDEVNQIVTTNVRLKQ-----
+CHRNA1_04       RLVAKLFKD--YSSVVRPVEDHRQVVEVTVGLQLIQLINVDEVNQIVTTNVRLKQ-----
+CHRNA1_05       RLVAKLFKD--YSSVVRPVEDHRQVVEVTVGLQLIQLINVDEVNQIVTTNVRLKQ-----
+CHRNA1_06       RLVAKLFKD--YSSVVRPVEDHRQVVEVTVGLQLIQLINVDEVNQIVTTNVRLKQ-----
+CHRNA1_03       ------------------------------------------------------------
 CHRNA2          RLFKHLFRG--YNRWARPVPNTSDVVIVRFGLSIAQLIDVDEKNQMMTTNVWLKQ-----
 CHRNA3          RLFERLFED--YNEIIRPVANVSDPVIIHFEVSMSQLVKVDEVNQIMETNLWLKQ-----
 CHRNA3_02       RLFERLFED--YNEIIRPVANVSDPVIIHFEVSMSQLVKVDEVNQIMETNLWLKQ-----
@@ -344,6 +387,8 @@ GLRB            STSNILNRLLVSYDPRIRPNFKGIPVDVVVNIFINSFGSIQETTMDYRVNIFLRQ-----
 5HT3A_04        RLSDYLLTNY--RKGVRPVRDWRKPTTVSIDVIVYAILNVDEKNQVLTTYIWYRQ-----
 5HT3A_05        RLSDYLLTNY--RKGVRPVRDWRKPTTVSIDVIVYAILNVDEKNQVLTTYIWYRQ-----
 5HT3B           HLSKQLLQKY--HKEVRPVYNWTKATTVYLDLFVHAILDVDAENQILKTSVWYQE-----
+5HT3B_02        HLSKQLLQKY--HKEVRPVYNWTKATTVYLDLFVHAILDVDAENQILKTSVWYQE-----
+5HT3B_03        ----------------------------------------XAENQILKTSVWYQE-----
 5HT3C           GVDPAVFQAVFDRKAFRPFTNYSIPTRVNISFTLSAILGVDAQLQLLTSFLWMDL-----
 5HT3D           RVDPAAFQAVFDRKAIGPVTNYSVATHVNISFTLSAIW--NCYSRIHTFNCHHAR-----
 5HT3D_02        ------------------------------------------------------------
@@ -358,6 +403,10 @@ GLRB            STSNILNRLLVSYDPRIRPNFKGIPVDVVVNIFINSFGSIQETTMDYRVNIFLRQ-----
 ZACN            PSLFNVNLSKKVQESIQIPNNGSAPLLVDVRVFVSNVFNVDILRYTMSSMLLLRL-----
 
 GABRA1          ------------------------------------------------------------
+GABRA1_02       ------------------------------------------------------------
+GABRA1_03       ------------------------------------------------------------
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       ------------------------------------------------------------
 GABRA2          ------------------------------------------------------------
 GABRA2_02       ------------------------------------------------------------
 GABRA2_03       ------------------------------------------------------------
@@ -412,11 +461,20 @@ GABRD_08        ------------------------------------------------------------
 GABRD_09        ------------------------------------------------------------
 GABRE           ------------------------------------------------------------
 GABRP           ------------------------------------------------------------
+GABRP_02        ------------------------------------------------------------
+GABRP_03        ------------------------------------------------------------
+GABRP_04        ------------------------------------------------------------
+GABRP_05        ------------------------------------------------------------
 GABRQ           ------------------------------------------------------------
 GABRR1          ------------------------------------------------------------
 GABRR2          ------------------------------------------------------------
 GABRR3          ------------------------------------------------------------
 CHRNA1          ---------------------------------------------------------GDM
+CHRNA1_02       ------------------------------------------------------------
+CHRNA1_04       ------------------------------------------------------------
+CHRNA1_05       ------------------------------------------------------------
+CHRNA1_06       ------------------------------------------------------------
+CHRNA1_03       ------------------------------------------------------------
 CHRNA2          ------------------------------------------------------------
 CHRNA3          ------------------------------------------------------------
 CHRNA3_02       ------------------------------------------------------------
@@ -463,6 +521,8 @@ GLRB            ------------------------------------------------------------
 5HT3A_04        ------------------------------------------------------------
 5HT3A_05        ------------------------------------------------------------
 5HT3B           ------------------------------------------------------------
+5HT3B_02        ------------------------------------------------------------
+5HT3B_03        ------------------------------------------------------------
 5HT3C           ------------------------------------------------------------
 5HT3D           ------------------------------------------------------------
 5HT3D_02        ------------------------------------------------------------
@@ -477,6 +537,10 @@ GLRB            ------------------------------------------------------------
 ZACN            ------------------------------------------------------------
 
 GABRA1          ----------------------SWKDERLKFK-GP----MTVLRLNNLMASKIWTPDTFF
+GABRA1_02       ----------------------SWKDERLKFK-GP----MTVLRLNNLMASKIWTPDTFF
+GABRA1_03       ----------------------SWKDERLKFK-GP----MTVLRLNNLMASKIWTPDTFF
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       ----------------------SWKDERLKFK-GP----MTVLRLNNLMASKIWTPDTFF
 GABRA2          ----------------------KWKDERLKFK-GP----MNILRLNNLMASKIWTPDTFF
 GABRA2_02       ----------------------KWKDERLKFK-GP----MNILRLNNLMASKIWTPDTFF
 GABRA2_03       ----------------------KWKDERLKFK-GP----MNILRLNNLMASKIWTPDTFF
@@ -531,11 +595,20 @@ GABRD_08        ------------------------------------------------------------
 GABRD_09        ----------------------SWRDSRLSYN-HT----NETLGLDSRFVDKLWLPDTFI
 GABRE           ----------------------TWYDERLCYN-DT----FESLVLNGNVVSQLWIPDTFF
 GABRP           ----------------------RWMDQRLVFE-G-----NKSFTLDARLVEFLWVPDTYI
+GABRP_02        ----------------------RWMDQRLVFE-G-----NKSFTLDARLVEFLWVPDTYI
+GABRP_03        ----------------------RWMDQRLVFE-G-----NKSFTLDARLVEFLWVPDTYI
+GABRP_04        ----------------------RWMDQRLVFE-G-----NKSFTLDARLVEFLWVPDTYI
+GABRP_05        ----------------------RWMDQRLVFE-G-----NKSFTLDARLVEFLWVPDTYI
 GABRQ           ----------------------TWKDSRLAYY-ET----TLNLTLDYRMHEKLWVPDCYF
 GABRR1          ----------------------YWKDERLSFP-ST---NNLSMTFDGRLVKKIWVPDMFF
 GABRR2          ----------------------YWKDERLAFS-SA---SNKSMTFDGRLVKKIWVPDVFF
 GABRR3          ----------------------YWKDERLSFP-ST---ANKSMTFDHRLTRKIWVPDIFF
 CHRNA1          VDLPRPSCVTLGVPLFSHLQNEQWVDYNLKWN-PDDYGGVKKIHI---PSEKIWRPDLVL
+CHRNA1_02       ----------------------QWVDYNLKWN-PDDYGGVKKIHI---PSEKIWRPDLVL
+CHRNA1_04       ----------------------QWVDYNLKWN-PDDYGGVKKIHI---PSEKIWRPDLVL
+CHRNA1_05       ----------------------QWVDYNLKWN-PDDYGGVKKIHI---PSEKIWRPDLVL
+CHRNA1_06       ------------------------------------------------------------
+CHRNA1_03       ------------------------------------------------------------
 CHRNA2          ----------------------EWSDYKLRWN-PTDFGNITSLRV---PSEMIWIPDIVL
 CHRNA3          ----------------------IWNDYKLKWN-PSDYGGAEFMRV---PAQKIWKPDIVL
 CHRNA3_02       ----------------------IWNDYKLKWN-PSDYGGAEFMRV---PAQKIWKPDIVL
@@ -582,6 +655,8 @@ GLRB            ----------------------KWNDPRLKLP-SD-FRGSDALTVDPTMYKCLWKPDLFF
 5HT3A_04        ----------------------YWTDEFLQWN-PEDFDNITKLSI---PTDSIWVPDILI
 5HT3A_05        ----------------------YWTDEFLQWN-PEDFDNITKLSI---PTDSIWVPDILI
 5HT3B           ----------------------VWNDEFLSWN-SSMFDEIREISL---PLSAIWAPDIII
+5HT3B_02        ----------------------VWNDEFLSWN-SSMFDEIREISL---PLSAIWAPDIII
+5HT3B_03        ----------------------VWNDEFLSWN-SSMFDEIREISL---PLSAIWAPDIII
 5HT3C           ----------------------VWDNPFINWN-PKECVGINKLTV---LAENLWLPDIFI
 5HT3D           ----------------------PWHNQFVQWN-PDECGGIKKSGM---ATENLWLSDVFI
 5HT3D_02        ------------------------------------------------------------
@@ -596,6 +671,10 @@ GLRB            ----------------------KWNDPRLKLP-SD-FRGSDALTVDPTMYKCLWKPDLFF
 ZACN            ----------------------SWLDTRLAWN-TSAH-PRHAITL---PWESLWTPRLTI
 
 GABRA1          HNGKK---SV-AHNMTMPNK-LLRITEDGTLLYTMRLTVRAE-CPMHLEDFPMDAHACPL
+GABRA1_02       HNGKK---SV-AHNMTMPNK-LLRITEDGTLLYTMRLTVRAE-CPMHLEDFPMDAHACPL
+GABRA1_03       HNGKK---SV-AHNMTMPNK-LLRITEDGTLLYTMRLTVRAE-CPMHLEDFPMDAHACPL
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       HNGKK---SV-AHNMTMPNK-LLRITEDGTLLYTMRLTVRAE-CPM--------------
 GABRA2          HNGKK---SV-AHNMTMPNK-LLRIQDDGTLLYTMRLTVQAE-CPMHLEDFPMDAHSCPL
 GABRA2_02       HNGKK---SV-AHNMTMPNK-LLRIQDDGTLLYTMRLTVQAE-CPMHLEDFPMDAHSCPL
 GABRA2_03       HNGKK---SV-AHNMTMPNK-LLRIQDDGTLLYTMRLTVQAE-CPMHLEDFPMDAHSCPL
@@ -650,11 +729,20 @@ GABRD_08        ------------------------------------------------------EQECML
 GABRD_09        VNAKS---AW-FHDVTVENK-LIRLQPDGVILYSIRITSTVA-CDMDLAKYPMDEQECML
 GABRE           RNSKR---TH-EHEITMPNQ-MVRIYKDGKVLYTIRMTIDAG-CSLHMLRFPMDSHSCPL
 GABRP           VESKK---SF-LHEVTVGNR-LIRLFSNGTVLYALRITTTVA-CNMDLSKYPMDTQTCKL
+GABRP_02        VESKK---SF-LHEVTVGNR-LIRLFSNGTVLYALRITTTVA-CNMDLSKYPMDTQTCKL
+GABRP_03        VESKK---SF-LHEVTVGNR-LIRLFSNGTVLYALRITTTVA-CNMDLSKYPMDTQTCKL
+GABRP_04        VESKK---SF-LHEVTVGNR-LIRLFSNGTVLYALRITTTVA-CNMDLSKYPMDT-----
+GABRP_05        VESKK---SF-LHEVTVGNR-LIRLFSNGTVLYALRITTTVA-CNMDLSKYPMDTQTCKL
 GABRQ           LNSKD---AF-VHDVTVENR-VFQLHPDGTVRYGIRLTTTAA-CSLDLHKFPMDKQACNL
 GABRR1          VHSKR---SF-IHDTTTDNV-MLRVQPDGKVLYSLRVTVTAM-CNMDFSRFPLDTQTCSL
 GABRR2          VHSKR---SF-THDTTTDNI-MLRVFPDGHVLYSMRITVTAM-CNMDFSHFPLDSQTCSL
 GABRR3          VHSKR---SF-IHDTTMENI-MLRVHPDGNVLLSLRITVSAM-CFMDFSRFPLDTQNCSL
 CHRNA1          YNNADGDFAI-VK---F--T-KVLLQYTGHITWTPPAIFKSY-CEIIVTHFPFDEQNCSM
+CHRNA1_02       YNNADGDFAI-VK---F--T-KVLLQYTGHITWTPPAIFKSY-CEIIVTHFPFDEQNCSM
+CHRNA1_04       YNNADGDFAI-VK---F--T-KVLLQYTGHITWTPPAIFKSY-CEIIVTHFPFDEQNCSM
+CHRNA1_05       YNNADGDFAI-VK---F--T-KVLLQYTGHITWTPPAIFKSY-CEIIVTHFPFDEQNCSM
+CHRNA1_06       --------------------------------------------------------NCSM
+CHRNA1_03       -----------------------------------------------------------M
 CHRNA2          YNNADGEFAV-TH---M--T-KAHLFSTGTVHWVPPAIYKSS-CSIDVTFFPFDQQNCKM
 CHRNA3          YNNAVGDFQV-DD---K--T-KALLKYTGEVTWIPPAIFKSS-CKIDVTYFPFDYQNCTM
 CHRNA3_02       YNNAVGDFQV-DD---K--T-KALLKYTGEVTWIPPAIFKSS-CKIDVTYFPFDYQNCTM
@@ -701,6 +789,8 @@ GLRB            ANEKS---AN-FHDVTQENI-LLFIFRDGDVLVSMRLSITLS-CPLDLTLFPMDTQRCKM
 5HT3A_04        NEFVD---VGKSP---N--IPYVYIRHQGEVQNYKPLQVVTA-CSLDIYNFPFDVQNCSL
 5HT3A_05        NEFVD---VGKSP---N--IPYVYIRHQGEVQNYKPLQVVTA-CSLDIYNFPFDVQNCSL
 5HT3B           NEFVDI--ER-YP---DL-P-YVYVNSSGTIENYKPIQVVSA-CSLETYAFPFDVQNCSL
+5HT3B_02        NEFVDI--ER-YP---DL-P-YVYVNSSGTIENYKPIQVVSA-CSLETYAFPFDVQNCSL
+5HT3B_03        NEFVDI--ER-YP---DL-P-YVYVNSSGTIENYKPIQVVSA-CSLETYAFPFDVQNCSL
 5HT3C           VESMD--VDQ-TP---SG-L-TAYISSEGRIKYDKPMRVTSI-CNLDIFYFPFDQQNCTF
 5HT3D           EESVDQ--T---P---AGLM-ASM-SI-VKATSNTIS--QCGWSA-SANWTPSISPSMD-
 5HT3D_02        -------------------M-ASM-SI-VKATSNTIS--QCGWSA-SANWTPSISPSMD-
@@ -715,6 +805,10 @@ GLRB            ANEKS---AN-FHDVTQENI-LLFIFRDGDVLVSMRLSITLS-CPLDLTLFPMDTQRCKM
 ZACN            LEALW---VD-WRD--QS-P-QARVDQDGHVKLNLALATETN-CNFELLHFPRDHSNCSL
 
 GABRA1          KF-------------GSY----------------------------------------AY
+GABRA1_02       KF-------------GSY----------------------------------------AY
+GABRA1_03       KF-------------GSY----------------------------------------AY
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       ------------------------------------------------------------
 GABRA2          KF-------------GSY----------------------------------------AY
 GABRA2_02       KF-------------GSY----------------------------------------AY
 GABRA2_03       KF-------------GSY----------------------------------------AY
@@ -769,11 +863,20 @@ GABRD_08        DL-------------ESY----------------------------------------GY
 GABRD_09        DL-------------ESY----------------------------------------GY
 GABRE           SF-------------SSF----------------------------------------SY
 GABRP           QL-------------ESW----------------------------------------GY
+GABRP_02        QL-------------ESW----------------------------------------GY
+GABRP_03        QL-------------ESW----------------------------------------GY
+GABRP_04        ------------------------------------------------------------
+GABRP_05        QL-------------ESW----------------------------------------GY
 GABRQ           VV-------------ESY----------------------------------------GY
 GABRR1          EI-------------ESY----------------------------------------AY
 GABRR2          EL-------------ESY----------------------------------------AY
 GABRR3          EL-------------ESY----------------------------------------AY
 CHRNA1          KL-------------GTW----------------------------------------TY
+CHRNA1_02       KL-------------GTW----------------------------------------TY
+CHRNA1_04       KL-------------GTW----------------------------------------TY
+CHRNA1_05       KL-------------GTW----------------------------------------TY
+CHRNA1_06       KL-------------GTW----------------------------------------TY
+CHRNA1_03       KL-------------GTW----------------------------------------TY
 CHRNA2          KF-------------GSW----------------------------------------TY
 CHRNA3          KF-------------GSW----------------------------------------SY
 CHRNA3_02       KF-------------GSW----------------------------------------SY
@@ -820,6 +923,8 @@ GLRB            QL-------------ESF----------------------------------------GY
 5HT3A_04        TF-------------TSW----------------------------------------LH
 5HT3A_05        TF-------------TSW----------------------------------------LH
 5HT3B           TF-------------KSI----------------------------------------LH
+5HT3B_02        TF-------------KSI----------------------------------------LH
+5HT3B_03        TF-------------KSI----------------------------------------LH
 5HT3C           TF-------------SSF----------------------------------------LY
 5HT3D           RA-------------RAW----------------------------------------RR
 5HT3D_02        RA-------------ERS----------------------------------------PS
@@ -834,6 +939,10 @@ GLRB            QL-------------ESF----------------------------------------GY
 ZACN            SF-------------YALSNTAMELEFQAH----------------VV-----NE--I-V
 
 GABRA1          TRAEVVYEWT----------REPARSVV-----VA-E--D-G-SRLNQYDLL--GQTVDS
+GABRA1_02       TRAEVVYEWT----------REPARSVV-----VA-E--D-G-SRLNQYDLL--GQTVDS
+GABRA1_03       TRAEVVYEWT----------REPARSVV-----VA-E--D-G-SRLNQYDLL--GQTVDS
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       ------------------------------------------------------------
 GABRA2          TTSEVTYIWT----------YNASDSVQ-----VA-P--D-G-SRLNQYDLL--GQSIGK
 GABRA2_02       TTSEVTYIWT----------YNASDSVQ-----VA-P--D-G-SRLNQYDLL--GQSIGK
 GABRA2_03       TTSEVTYIWT----------YNASDSVQ-----VA-P--D-G-SRLNQYDLL--GQSIGK
@@ -888,11 +997,20 @@ GABRD_08        SSEDIVYYWS----------E-SQEHIH------GLD--K-L-Q-LAQFTIT--SYRFTT
 GABRD_09        SSEDIVYYWS----------E-SQEHIH------GLD--K-L-Q-LAQFTIT--SYRFTT
 GABRE           PENEMIYKWE----------N-F-K-LE-----IN-E--KNS-WKLFQFDFT--GVSNKT
 GABRP           DGNDVEFTWL----------R-GNDSVR-----G-LE--H-L-R-LAQYTIE--RYFTLV
+GABRP_02        DGNDVEFTWL----------R-GNDSVR-----G-LE--H-L-R-LAQYTIE--RYFTLV
+GABRP_03        DGNDVEFTWL----------R-GNDSVR-----G-LE--H-L-R-LAQYTIE--RYFTLV
+GABRP_04        ------------------------------------------------------------
+GABRP_05        DGNDVE------------------------------------------------------
 GABRQ           TVEDIILFWD----------DNG-NAIH-----MT-E--E-L-H-IPQFTFL--GRTITS
 GABRR1          TEDDLMLYWK----------K-GNDSLK-----TD-E--R-I-S-LSQFLIQ--EFHTTT
 GABRR2          TDEDLMLYWK----------N-GDESLK-----TD-E--K-I-S-LSQFLIQ--KFHTTS
 GABRR3          NEDDLMLYWK----------H-GNKSLN-----TE-E--H-M-S-LSQFFIE--DFSASS
 CHRNA1          DGSVVAINPE----------S-DQ--PD-----LS---NF-M-E-SGEWVIK--ESRGWK
+CHRNA1_02       DGSVVAINPE----------S-DQ--PD-----LS---NF-M-E-SGEWVIK--ESRGWK
+CHRNA1_04       DGSVVAINPE----------S-DQ--PD-----LS---NF-M-E-SGEWVIK--ESRGWK
+CHRNA1_05       DGSVVAINPE----------S-DQ--PD-----LS---NF-M-E-SGEWVIK--ESRGWK
+CHRNA1_06       DGSVVAINPE----------S-DQ--PD-----LS---NF-M-E-SGEWVIK--ESRGWK
+CHRNA1_03       DGSVVAINPE----------S-DQ--PD-----LS---NF-M-E-SGEWVIK--ESRGWK
 CHRNA2          DKAKIDLEQM----------E-QT--VD-----LK---DY-W-E-SGEWAIV--NATGTY
 CHRNA3          DKAKIDLVLI----------G-SS--MN-----LK---DY-W-E-SGEWAII--KAPGYK
 CHRNA3_02       DKAKIDLVLI----------G-SS--MN-----LK---DY-W-E-SGEWAII--KAPGYK
@@ -939,6 +1057,8 @@ GLRB            TTDDLRFIWQ----------S-G-DPVQ-----LE----K-I-A-LPQFDIKKEDIEYGN
 5HT3A_04        TIQDINISLW----------R-LP--EKVKSD-RS---VF-M-N-QGEWELL--GVLPYF
 5HT3A_05        TIQDINISLW----------R-LP--EKVKSD-RS---VF-M-N-QGEWELL--GVLPYF
 5HT3B           TVEDVDLAFL----------R-SP--EDIQHD-KK---AF-L-N-DSEWELL--SVSSTY
+5HT3B_02        TVEDVDLAFL----------R-SP--EDIQHD-KK---AF-L-N-DSEWELL--SVSSTY
+5HT3B_03        TVEDVDLAFL----------R-SP--EDIQHD-KK---AF-L-N-DSEWELL--SVSSTY
 5HT3C           TVDSMLLGMD----------KEVWE---ITDT--SRK--V-IQT-QGEWELL--GINKAT
 5HT3D           MSRSFQIHHR----------------TS-----FR-----------TRREWV--LLGIQK
 5HT3D_02        ALSPTQ------------------------------------------------------
@@ -953,6 +1073,10 @@ GLRB            TTDDLRFIWQ----------S-G-DPVQ-----LE----K-I-A-LPQFDIKKEDIEYGN
 ZACN            -S-V-KREYVVY--DLKTQVPPQQ---------LVPCFQVTLRLKNTA-LKSIIALLVPA
 
 GABRA1          GIVQS-S-T-------------GEYVVMTTHFHLKRKI-GYFVIQTYLPCIMTVILSQVS
+GABRA1_02       GIVQS-S-T-------------GEYVVMTTHFHLKRKI-GYFVIQTYLPCIMTVILSQVS
+GABRA1_03       GIVQS-S-T-------------GEYVVMTTHFHLKRKI-GYFVIQTYLPCIMTVILSQVS
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       ------------------------------------------------------------
 GABRA2          ETIKS-S-T-------------GEYTVMTAHFHLKRKI-GYFVIQTYLPCIMTVILSQVS
 GABRA2_02       ETIKS-S-T-------------GEYTVMTAHFHLKRKI-GYFVIQTYLPCIMTVILSQVS
 GABRA2_03       ETIKS-S-T-------------GEYTVMTAHFHLKRKI-GYFVIQTYLPCIMTVILSQVS
@@ -1007,11 +1131,20 @@ GABRD_08        ELMNFKS-A-------------GQFPRLSLHFHLRRNR-GVYIIQSYMPSVLLVAMSWVS
 GABRD_09        ELMNFNW-P-------------VPTAQPALPPAEEPRR-VHHPIL---------------
 GABRE           EIITT-P-V-------------GDFMVMTIFFNVSRRF-GYVAFQNYVPSSVTTMLSWVS
 GABRP           TRSQQ-E-T-------------GNYTRLVLQFELRRNV-LYFILETYVPSTFLVVLSWVS
+GABRP_02        TRSQQ-E-T-------------GNYTRLVLQFELRRNV-LYFILETYVPSTFLVVLSWVS
+GABRP_03        TRSQQ-E-T-------------GNYTRLVLQFELRRNV-LYFILETYVPSTFLVVLSWVS
+GABRP_04        ------------------------------------------------------------
+GABRP_05        ------------------------------------------------------------
 GABRQ           KEVYF-Y-T-------------GSYIRLILKFQVQREV-NSYLVQVYWPTVLTTITSWIS
 GABRR1          KLAFYSS-T-------------GWYNRLYINFTLRRHI-FFFLLQTYFPATLMVMLSWVS
 GABRR2          RLAFYSS-T-------------GWYNRLYINFTLRRHI-FFFLLQTYFPATLMVMLSWVS
 GABRR3          GLAFYSS-T-------------GWYNRLFINFVLRRHV-FFFVLQTYFPAILMVMLSWVS
 CHRNA1          HSVTYSC-CP-D----------TPYLDITYHFVMQRLP-LYFIVNVIIPCLLFSFLTGLV
+CHRNA1_02       HSVTYSC-CP-D----------TPYLDITYHFVMQRLP-LYFIVNVIIPCLLFSFLTGLV
+CHRNA1_04       HSVTYSC-CP-D----------TPYLDITYHFVMQRLP-LYFIVNVIIPCLLFSFLTGLV
+CHRNA1_05       HSVTYSC-CP-D----------TPYLDITYHFVMQRLP-LYFIVNVIIPCLLFSFLTGLV
+CHRNA1_06       HSVTYSC-CP-D----------TPYLDITYHFVMQRLP-LYFIVNVIIPCLLFSFLTGLV
+CHRNA1_03       HSVTYSC-CP-D----------TPYLDITYHFVMQRLP-LYFIVNVIIPCLLFSFLTGLV
 CHRNA2          NSKKYDC-C--A----------EIYPDVTYAFVIRRLP-LFYTINLIIPCLLISCLTVLV
 CHRNA3          HDIKYNC-C--E----------EIYPDITYSLYIRRLP-LFYTINLIIPCLLISFLTVLV
 CHRNA3_02       HDIKYNC-C--E----------EIYPDITYSLYIRRLP-LFYTINLIIPCLLISFLTVLV
@@ -1058,6 +1191,8 @@ GLRB            CTKYYKG-T-------------GYYTCVEVIFTLRRQV-GFYMMGVYAPTLLIVVLSWLS
 5HT3A_04        REFSME--S--S----------NYYAEMKFYVVIRRRP-LFYVVSLLLPSIFLMVMDIVG
 5HT3A_05        REFSME--S--S----------NYYAEMKFYVVIRRRP-LFYVVSLLLPSIFLMVMDIVG
 5HT3B           SILQS---S--A----------GGFAQIQFNVVMRRHP-LVYVVSLLIPSIFLMLVDLGS
+5HT3B_02        SILQS---S--A----------GGFAQIQFNVVMRRHP-LVYVVSLLIPSIFLMLVDLGS
+5HT3B_03        SILQS---S--A----------GGFAQIQFNGTSSPSA-WPSWFSA--------------
 5HT3C           PKMSM---G--N----------NLYDQIMFYVAIRRRP-SLYIINLLVPSSFLVAIDALS
 5HT3D           RTIKVTVATN-Q----------YEQAIFHVAIRRRCRPSPYVV-NFLVPSGILIAIDALS
 5HT3D_02        -----------------------------VAIRRRCRPSPYVV-NFLVPSGILIAIDALS
@@ -1072,6 +1207,10 @@ GLRB            CTKYYKG-T-------------GYYTCVEVIFTLRRQV-GFYMMGVYAPTLLIVVLSWLS
 ZACN            EALLLADVCGGL----------LPLR-A-IERIGYKVTLLLSYLVLHSSLVQALP-SSSS
 
 GABRA1          FWLNRE-SVPARTVFGVTTVLTMTTLSISARNSLP-KVA-YA------------------
+GABRA1_02       FWLNRE-SVPARTVFGVTTVLTMTTLSISARNSLP-KVA-YA------------------
+GABRA1_03       FWLNRE-SVPARTVF---------------------------------------------
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       ------------------------------------------------------------
 GABRA2          FWLNRE-SVPARTVFGVTTVLTMTTLSISARNSLP-KVA-YA------------------
 GABRA2_02       FWLNRE-SVPARTVFGVTTVLTMTTLSISARNSLP-KVA-YA------------------
 GABRA2_03       FWLNRE-SVPARTVFGVTTVLTMTTLSISARNSLP-KVA-YA------------------
@@ -1126,11 +1265,20 @@ GABRD_08        FWISQA-AVPARVSLVPAPPCHGHQPSRHWTSTSG-SAM-SS------------------
 GABRD_09        ------------------------------------------------------------
 GABRE           FWIKTE-SAPARTSLGITSVLTMTTLGTFSRKNFP-RVS-YI------------------
 GABRP           FWISLD-SVPARTCIGVTTVLSMTTLMIGSRTSLPNTNC-FI------------------
+GABRP_02        FWISLD-SVPARTCIGDNKGSRRSQYY---------------------------------
+GABRP_03        FWISLD-SVPARTCIGVTTVLSMTTLMIGSRTSLPNTNC-FI------------------
+GABRP_04        ------------------------------------------------------------
+GABRP_05        ------------------------------------------------------------
 GABRQ           FWMNYD-SSAARVTIGLTSMLILTTIDSHLRDKLP-NIS-CI------------------
 GABRR1          FWIDRR-AVPARVPLGITTVLTMSTIITGVNASMP-RVS-YI------------------
 GABRR2          FWIDRR-AVPARVSLGITTVLTMTTIITGVNASMP-RVS-YV------------------
 GABRR3          FWIDRR-AVPARVSLGITTVLTMSTIITAVSASMP-QVS-YL------------------
 CHRNA1          FYLPTD-S-GEKMTLSISVLLSLTVFLLVIVELIP-STSSAV------------------
+CHRNA1_02       FYLPTD-S-GEKMTLSISVLLSLTVFLLVIVELIP-STSSAV------------------
+CHRNA1_04       FYLPTD-S-GGCGCHDCCC-----------------------------------------
+CHRNA1_05       FYLPTD-S-GEKMTLSISVLLSLTVFLLVIVELIP-STSSAV------------------
+CHRNA1_06       FYLPTD-S-GEKMTLSISVLLSLTVFLLVIVELIP-STSSAV------------------
+CHRNA1_03       FYLPTD-S-GEKMTLSISVLLSLTVFLLVIVELIP-STSSAV------------------
 CHRNA2          FYLPSD-C-GEKITLCISVLLSLTVFLLLITEIIP-STSLVI------------------
 CHRNA3          FYLPSD-C-GEKVTLCISVLLSLTVFLLVITETIP-STSLVI------------------
 CHRNA3_02       FYLPSD-C-GEKVTLCISVLLSLTVFLLVITETIP-STSLVI------------------
@@ -1177,6 +1325,8 @@ GLRB            FWINPD-ASAARVPLGIFSVLSLASECTTLAAELP-KVS-YV------------------
 5HT3A_04        FYLPPN-S-GERVSFKITLLLGYSVFLIIVSDTLP-ATAIGT------------------
 5HT3A_05        FYLPPN-S-GERVSFKITLLLGYSVFLIIVSDTLP-ATAIGTPLIGKAPPGSRAQSGEKP
 5HT3B           FYLPPN-C-RARIVFKTSVLVGYTVFRVNMSNQVP-RSVGST------------------
+5HT3B_02        FYLPPN-C-RARIVFKTSVLVGYTVFRVNMSNQVP-RSVGST------------------
+5HT3B_03        ------------------------------------------------------------
 5HT3C           FYLPAE-S-ENRAPFKITLLLGYNVFLLMMNDLLP-AS--GT------------------
 5HT3D           FYLPLE-S-GNCAPFKMTVLLGYSVFLLMMNDLLP-ATSTSS------------------
 5HT3D_02        FYLPLE-S-GNCAPFKMTVLLGYSVFLLMMNDLLP-ATSTSS------------------
@@ -1191,6 +1341,10 @@ GLRB            FWINPD-ASAARVPLGIFSVLSLASECTTLAAELP-KVS-YV------------------
 ZACN            CN--------------PLLIYYFTILLLLLFLSTIETVLLAG------------------
 
 GABRA1          --------------TAMDWFIAVCYAFVFSALIEFATVNYFTKRGYA-------WDGK--
+GABRA1_02       --------------TAMDWFIAVCYAFVFSALIEFATVNYFTKRGYA-------WDGK--
+GABRA1_03       ------------------------------------------------------------
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       ------------------------------------------------------------
 GABRA2          --------------TAMDWFIAVCYAFVFSALIEFATVNYFTKRGWA-------WDGK--
 GABRA2_02       --------------TAMDWFIAVCYAFVFSALIEFATVNYFTKRGWA-------WDGK--
 GABRA2_03       --------------TAMDWFIAVCYAFVFSALIEFATVNYFTKRGWA-------WDGK--
@@ -1245,11 +1399,20 @@ GABRD_08        --------------CLPPWWSTPLLISTPTTGRSRRPRSRSPGRGQRWT-----------
 GABRD_09        ------------------------------------------------------------
 GABRE           --------------TALDFYIAICFVFCFCALLEFAVLNFLIYNQTKAHASPKLRHPR--
 GABRP           --------------KAIDVYLGICFSFVFGALLEYAVAHYSSLQQMAAKDRGTTKEVE--
+GABRP_02        ------------------------------------------------------------
+GABRP_03        --------------KAIDVYLGICFSFVFGALLEYAVAHYSSLQQMAAKDRQKICYLY--
+GABRP_04        ------------------------------------------------------------
+GABRP_05        ------------------------------------------------------------
 GABRQ           --------------KAIDIYILVCLFFVFLSLLEYVYINYLFYSRGPRRQPRRHRRPR--
 GABRR1          --------------KAVDIYLWVSFVFVFLSVLEYAAVNYLTTVQERKEQKLREKLPC--
 GABRR2          --------------KAVDIYLWVSFVFVFLSVLEYAAVNYLTTVQERKERKLREKFPC--
 GABRR3          --------------KAVDVYLWVSSLFVFLSVIEYAAVNYLTTVEERKQFKKTGKISR--
 CHRNA1          --------------PLIGKYMLFTMVFVIASIIITVIVINTHHRSPSTH-VMPNWVRK--
+CHRNA1_02       --------------PLIGKYMLFTMVFVIASIIITVIVINTHHRSPSTH-VMPNWVRK--
+CHRNA1_04       ------------------------------------------------------------
+CHRNA1_05       --------------PLIGKYMLFTMVFVIASIIITVIVINTHHRSPSTH-VMPNWVRK--
+CHRNA1_06       --------------PLIGKYMLFTMVFVIASIIITVIVINTHHRSPSTH-VMPNWVRK--
+CHRNA1_03       --------------PLIGKYMLFTMVFVIASIIITVIVINTHHRSPSTH-VMPNWVRK--
 CHRNA2          --------------PLIGEYLLFTMIFVTLSIVITVFVLNVHHRSPSTH-TMPHWVRG--
 CHRNA3          --------------PLIGEYLLFTMIFVTLSIVITVFVLNVHYRTPTTH-TMPSWVKT--
 CHRNA3_02       --------------PLIGEYLLFTMIFVTLSIVITVFVLNVHYRTPTTH-TMPSWVKT--
@@ -1296,6 +1459,8 @@ GLRB            --------------KALDVWLIACLLFGFASLVEYAVVQVMLNNPKRVEAEKARIAKA--
 5HT3A_04        --------------PLIGVYFVVCMALLVISLAETIFIVRLVHKQDLQQ-PVPAWLRH--
 5HT3A_05        APSHLLHVSLASALGCTGVYFVVCMALLVISLAETIFIVRLVHKQDLQQ-PVPAWLRH--
 5HT3B           --------------PLIGHFFTICMAFLVLSLAKSIVLVKFLHDEQRGGQEQPFLCLR--
+5HT3B_02        --------------PLIGHFFTICMAFLVLSLAKSIVLVKFLHDEQRGGQEQPFLCLR--
+5HT3B_03        ------------------------------------------------------------
 5HT3C           --------------PLISVYFALCLSLMVVSLLETVFITYLLHVATTQPPPMPRWLHS--
 5HT3D           HASLVAPLALMQTPLPAGVYFALCLSLMVGSLLETIFITHLLHVATTQPLPLPRWLHS--
 5HT3D_02        HASLVRPHPSRDQKR--GVYFALCLSLMVGSLLETIFITHLLHVATTQPLPLPRWLHS--
@@ -1310,6 +1475,10 @@ GLRB            --------------KALDVWLIACLLFGFASLVEYAVVQVMLNNPKRVEAEKARIAKA--
 ZACN            LLARGNLGAKSGPSPAPR------------------------------------------
 
 GABRA1          -----------------------------SVVPEKPKKVKDPLIK---------------
+GABRA1_02       -----------------------------SVVPEKPKKVKDPLIK---------------
+GABRA1_03       ------------------------------------------------------------
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       ------------------------------------------------------------
 GABRA2          -----------------------------SVVNDKKKEKASVMI----------------
 GABRA2_02       -----------------------------SVVNDKSPSIKAEGITLTYNSVKAILQGAKL
 GABRA2_03       -----------------------------SVVNDKSPSIKAEGITLTYNSVKAILQGAKL
@@ -1364,11 +1533,20 @@ GABRD_08        ------------------------------------------------------------
 GABRD_09        ------------------------------------------------------------
 GABRE           -----------------------------INSRAHARTRARSRAC---------------
 GABRP           -----------------------------EVSITNIINSSISSFK---------------
+GABRP_02        ------------------------------------------------------------
+GABRP_03        -----------------------------AA-----------------------------
+GABRP_04        ------------------------------------------------------------
+GABRP_05        ------------------------------------------------------------
 GABRQ           -----------------------------RVIARYRYQQVVVGNVQDGLINVEDGVSSLP
 GABRR1          -----------------------------TSGLPPPRTAMLDGNY---------------
 GABRR2          -----------------------------MCGMLHSKTMMLDGSY---------------
 GABRR3          -----------------------------MYNIDAVQAMAFDGCY---------------
 CHRNA1          -----------------------------VFIDTIPNIMFFSTMK---------------
+CHRNA1_02       -----------------------------VFIDTIPNIMFFSTMK---------------
+CHRNA1_04       ------------------------------------------------------------
+CHRNA1_05       ------------------------------------------------------------
+CHRNA1_06       -----------------------------VFIDTIPNIMFFSTMK---------------
+CHRNA1_03       -----------------------------VFIDTIPNIMFFSTMK---------------
 CHRNA2          -----------------------------ALLGCVPRWLLMNRPPP--------------
 CHRNA3          -----------------------------VFLNLLPRVMFMTRPT---------------
 CHRNA3_02       -----------------------------VFLNLLPRVMFMTRPT---------------
@@ -1415,6 +1593,8 @@ GLRB            -----------------------------EQADGKGGNVAKKNTV---------------
 5HT3A_04        -----------------------------LVLERIAWLLCLREQST--------------
 5HT3A_05        -----------------------------LVLERIAWLLCLREQST--------------
 5HT3B           -----------------------------GDTDADRPRVEPRAQ----------------
+5HT3B_02        -----------------------------GDTDADRPRVEPRAQ----------------
+5HT3B_03        ------------------------------------------------------------
 5HT3C           -----------------------------LLLHCTSPGRCCPTAP---------------
 5HT3D           -----------------------------LLLHCTGQGRCCPTAP---------------
 5HT3D_02        -----------------------------LLLHCTGQGRCCPTAP---------------
@@ -1429,6 +1609,10 @@ GLRB            -----------------------------EQADGKGGNVAKKNTV---------------
 ZACN            ------------------------------------------------------------
 
 GABRA1          ------------------------------------------------------------
+GABRA1_02       ------------------------------------------------------------
+GABRA1_03       ------------------------------------------------------------
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       ------------------------------------------------------------
 GABRA2          ------------------------------------------------------------
 GABRA2_02       IWSKYIAFSWPSLFQEKTLEYLEKWMDCLTFKQSSKKEKASVMI----------------
 GABRA2_03       IWSKYIAFSWPSLFQEKTLEYLEKWMDCLTFKQSSKKEKASVMI----------------
@@ -1483,11 +1667,20 @@ GABRD_08        ------------------------------------------------------------
 GABRD_09        ------------------------------------------------------------
 GABRE           -------------------ARQH--------------QEAFVCQIVTTEGSDGEERPSCS
 GABRP           ------------------------------------------------------------
+GABRP_02        ------------------------------------------------------------
+GABRP_03        ------------------------------------------------------------
+GABRP_04        ------------------------------------------------------------
+GABRP_05        ------------------------------------------------------------
 GABRQ           ITPAQAPLASPESLGSLTSTSEQ--------------AQLATSESLSPLTSLSGQAPLAT
 GABRR1          ------------------------------------------------------------
 GABRR2          ------------------------------------------------------------
 GABRR3          ------------------------------------------------------------
 CHRNA1          ----------------------R--------------PSREKQDKKIFTEDIDISD----
+CHRNA1_02       ----------------------R--------------PSREKQDKKIFTEDIDISD----
+CHRNA1_04       ------------------------------------------------------------
+CHRNA1_05       ------------------------------------------------------------
+CHRNA1_06       ----------------------R--------------PSREKQDKKIFTEDIDISD----
+CHRNA1_03       ----------------------R--------------PSREKQDKKIFTEDIDISD----
 CHRNA2          ----------PVELCHPLRLKLS--------------PSYHWLESNVDAEEREVVVEEED
 CHRNA3          -------------SNEGNAQKPR--------------PLYGAELSNLNCFSRAESKGCKE
 CHRNA3_02       -------------SNEGNAQKPR--------------PLYGAELSNLNCFSRAESKGCKE
@@ -1534,6 +1727,8 @@ GLRB            --------------------------------------NGTGTPVHISTLQVGETRCKKV
 5HT3A_04        -------------------------------------SQRPPATSQATKTDDCSAMGNHC
 5HT3A_05        -------------------------------------SQRPPATSQATKTDDCSAMGNHC
 5HT3B           ------------------------------------------------------------
+5HT3B_02        ------------------------------------------------------------
+5HT3B_03        ------------------------------------------------------------
 5HT3C           ------------------------------------------------------------
 5HT3D           ------------------------------------------------------------
 5HT3D_02        ------------------------------------------------------------
@@ -1548,6 +1743,10 @@ GLRB            --------------------------------------NGTGTPVHISTLQVGETRCKKV
 ZACN            ------------------------------------------------------------
 
 GABRA1          ------------------------------------------------------------
+GABRA1_02       ------------------------------------------------------------
+GABRA1_03       ------------------------------------------------------------
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       ------------------------------------------------------------
 GABRA2          ------------------------------------------------------------
 GABRA2_02       ------------------------------------------------------------
 GABRA2_03       ------------------------------------------------------------
@@ -1602,11 +1801,20 @@ GABRD_08        ------------------------------------------------------------
 GABRD_09        ------------------------------------------------------------
 GABRE           AQQPPS------------------------------------------------------
 GABRP           ------------------------------------------------------------
+GABRP_02        ------------------------------------------------------------
+GABRP_03        ------------------------------------------------------------
+GABRP_04        ------------------------------------------------------------
+GABRP_05        ------------------------------------------------------------
 GABRQ           GESLSDLPSTSEQARHSYGVRFNGFQADDSIFPTEIRNRVEAHGHGVTHDHEDSNESLSS
 GABRR1          ------------------------------------------------------------
 GABRR2          ------------------------------------------------------------
 GABRR3          ------------------------------------------------------------
 CHRNA1          ------------------------------------------------------------
+CHRNA1_02       ------------------------------------------------------------
+CHRNA1_04       ------------------------------------------------------------
+CHRNA1_05       ------------------------------------------------------------
+CHRNA1_06       ------------------------------------------------------------
+CHRNA1_03       ------------------------------------------------------------
 CHRNA2          RWACAGHVAPSVGTLCSHG----------------------------------------H
 CHRNA3          GYPCQDGMCGYCHHRRIK-----------------------------------------I
 CHRNA3_02       GYPCQDGMCGYCHHRRIK-----------------------------------------I
@@ -1653,6 +1861,8 @@ GLRB            CTSKSDL-----------------------------------------------------
 5HT3A_04        SHMGGP------------------------------------------------------
 5HT3A_05        SHMGGP------------------------------------------------------
 5HT3B           ------------------------------------------------------------
+5HT3B_02        ------------------------------------------------------------
+5HT3B_03        ------------------------------------------------------------
 5HT3C           ------------------------------------------------------------
 5HT3D           ------------------------------------------------------------
 5HT3D_02        ------------------------------------------------------------
@@ -1667,6 +1877,10 @@ GLRB            CTSKSDL-----------------------------------------------------
 ZACN            ------------------------------------------------------------
 
 GABRA1          ----KNNTYAPTATSYTPNLAR--------------------------------------
+GABRA1_02       ----KNNTYAPTATSYTPNLAR--------------------------------------
+GABRA1_03       ------------------------------------------------------------
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       ------------------------------------------------------------
 GABRA2          ----QNNAYAVAVANYAPNL----------------------------------------
 GABRA2_02       ----QNNAYAVAVANYAPNL----------------------------------------
 GABRA2_03       ----QNNAYAVAVANYAPNL----------------------------------------
@@ -1721,11 +1935,20 @@ GABRD_08        ------------------------------------------------------------
 GABRD_09        ------------------------------------------------------------
 GABRE           ----PGSPEGPRSLC---------------------------------------------
 GABRP           ----RKISFASIEISSD-------------------------------------------
+GABRP_02        ------------------------------------------------------------
+GABRP_03        ------------------------------------------------------------
+GABRP_04        ------------------------------------------------------------
+GABRP_05        ------------------------------------------------------------
 GABRQ           DERHGHGPSGKPMLHHGEKGVQEAGWDLDDNNDKSDCLAIKEQFKCDTNSTWGLNDDELM
 GABRR1          ----SDGEVNDLDNYMPEN-----------------------------------------
 GABRR2          ----SESEANSLAGYPRSHILTEE------------------------------------
 GABRR3          ----HDSEIDMDQTSLSLNS----------------------------------------
 CHRNA1          ----ISGKPGPPPMGFHSPLI---------------------------------------
+CHRNA1_02       ----ISGKPGPPPMGFHSPLI---------------------------------------
+CHRNA1_04       ------------------------------------------------------------
+CHRNA1_05       ------------------------------------------------------------
+CHRNA1_06       ----ISGKPGPPPMGFHSPLI---------------------------------------
+CHRNA1_03       ----ISGKPGPPPMGFHSPLI---------------------------------------
 CHRNA2          LHSGASGPKAEALLQEGELL----------------------------------------
 CHRNA3          SNFSANLTRSSSSESVDAVLSLS-------------------------------------
 CHRNA3_02       SNFSANLTRSSSSESVDAVLSLS-------------------------------------
@@ -1772,6 +1995,8 @@ GLRB            ----RSNDFSIVGSLPRDFELS--------------------------------------
 5HT3A_04        ----QDFEKSPRDRCSPPPPPR--------------------------------------
 5HT3A_05        ----QDFEKSPRDRCSPPPPPR--------------------------------------
 5HT3B           ----RAVVTESSLYGEHLA-----------------------------------------
+5HT3B_02        ----RAVVTESSLYGEHLA-----------------------------------------
+5HT3B_03        ------------------------------------------------------------
 5HT3C           ----QKGNKGLGLTLTHLP-----------------------------------------
 5HT3D           ----QKGNKGPGLTPTHLPGVKEPEVSA-------------------------------G
 5HT3D_02        ----QKGNKGPGLTPTHLPGVKEPEVSA-------------------------------G
@@ -1786,6 +2011,10 @@ GLRB            ----RSNDFSIVGSLPRDFELS--------------------------------------
 ZACN            -----------------------------GEQREHGNPGPHPAEEPSRGVKGSQRSWPET
 
 GABRA1          ---GDPGLATIAKSATIEPKEVKPETKPPEPKKTFNSVSKIDRLSRIAFPLLFGIFNLVY
+GABRA1_02       ---GDPGLATIAKSATIEPKEVKPETKPPEPKKTFNSVSKIDRLSRIAFPLLFGIFNLVY
+GABRA1_03       ------------------------------------------------------------
+GABRA1_04       ------------------------------------------------------------
+GABRA1_05       ------------------------------------------------------------
 GABRA2          --SKDPVLSTISKSATTPEPNKKPENKPAEAKKTFNSVSKIDRMSRIVFPVLFGTFNLVY
 GABRA2_02       --SKDPVLSTISKSATTPEPNKKPENKPAEAKKTFNSVSKIDRMSRIVFPVLFGTFNLVY
 GABRA2_03       --SKDPVLSTISKSATTPEPNKKPENKPAEAKKTFNSVSKIDRMSRIVFPVLFGTFNLVY
@@ -1840,11 +2069,20 @@ GABRD_08        ------------------------------------------------------------
 GABRD_09        ------------------------------------------------------------
 GABRE           --SKLACCEWCKRFKKYFCMVPDCEGSTWQQGRLCIHVYRLDNYSRVVFPVTFFFFNVLY
 GABRP           ---NVDYSDLTMKTSDKFKFVFREKMGRIVDYFTIQNPSNVDHYSKLLFPLIFMLANVFY
+GABRP_02        ------------------------------------------------------------
+GABRP_03        ------------------------------------------------------------
+GABRP_04        ------------------------------------------------------------
+GABRP_05        ------------------------------------------------------------
 GABRQ           AHGQEKDSSSESEDSCPPSPGCSFTEGFSFDLFNPDYVPKVDKWSRFLFPLAFGLFNIVY
 GABRR1          --GEKPDRMMVQLTLASERSSPQRKSQRSSYVSMRIDTHAIDKYSRIIFPAAYILFNLIY
 GABRR2          -ERQDKIVVHLGLSGEANAARKKGLLKGQTGFRIFQNTHAIDKYSRLIFPASYIFFNLIY
 GABRR3          -EDFMRRKSICSPSTDSSRIKRRKSLGGHVGRIILENNHVIDTYSRILFPIVYILFNLFY
 CHRNA1          --KHPEVKSAIEGIKYIAETMKSDQESNNAAAEWKYVAMVMDHILLGVFMLVCIIGTLAV
+CHRNA1_02       --KHPEVKSAIEGIKYIAETMKSDQESNNAAAEWKYVAMVMDHILLGVFMLVCIIGTLAV
+CHRNA1_04       ------------------------------------------------------------
+CHRNA1_05       -----------------------------AAAEWKYVAMVMDHILLGVFMLVCIIGTLAV
+CHRNA1_06       --KHPEVKSAIEGIKYIAETMKSDQESNNAAAEWKYVAMVMDHILLGVFMLVCIIGTLAV
+CHRNA1_03       --KHPEVKSAIEGIKYIAETMKSDQESNNAAAEWKYVAMVMDHILLGVFMLVCIIGTLAV
 CHRNA2          --LSPHMQKALEGVHYIADHLRSEDADSSVKEDWKYVAMVIDRIFLWLFIIVCFLGTIGL
 CHRNA3          -ALSPEIKEAIQSVKYIAENMKAQNEAKEIQDDWKYVAMVIDRIFLWVFTLVCILGTAGL
 CHRNA3_02       -ALSPEIKEAIQSVKYIAENMKAQNEAKEEQKAQEIQQLKRKEKSTETSDQEPGL-----
@@ -1891,6 +2129,8 @@ GLRB            -NYDCYGKPIEVNNGLGKSQAKNNKKPPPAKPVIPTAAKRIDLYARALFPFCFLFFNVIY
 5HT3A_04        -EASLAVCGLLQELSSIRQFLEKRDEIREVARDWLRVGSVLDKLLFHIYLLAVLAYSITL
 5HT3A_05        -EASLAVCGLLQELSSIRQFLEKRDEIREVARDWLRVGSVLDKLLFHIYLLAVLAYSITL
 5HT3B           --QPGTLKEVWSQLQSISNYLQTQDQTDQQEAEWLVLLSRFDRLLF----QSYLFMLGIY
+5HT3B_02        --QPGTLKEVWSQLQSISNYLQTQDQTDQQEAEWLVLLSRFDRLLF----QSYLFMLGIY
+5HT3B_03        ------------------------------------------------------------
 5HT3C           ---GPKEPGELAGKKLGPRETEPDGGSGWTKTQLMELWVQFSHAMDTLLFRLYLLFMASS
 5HT3D           QMPGPGEAELTGGSEWTRAQREHEAQKQHSVELWVQFSHAMDALLFRLYLLFMASSIITV
 5HT3D_02        QMPGPGEAELTGGSEWTRAQREHEAQKQHSVELWVQFSHAMDALLFRLYLLFMASSIITV
@@ -1905,6 +2145,10 @@ GLRB            -NYDCYGKPIEVNNGLGKSQAKNNKKPPPAKPVIPTAAKRIDLYARALFPFCFLFFNVIY
 ZACN            ADRIFFLVYVVGVLCTQFVFAGIWMWAACKSDAAPGEAAPHGRRPRL-------------
 
 GABRA1          WATYLNREPQLKAP-TPHQ-----------------------------------
+GABRA1_02       WATYLNREPQLKAP-TPHQ-----------------------------------
+GABRA1_03       ------------------------------------------------------
+GABRA1_04       ------------------------------------------------------
+GABRA1_05       ------------------------------------------------------
 GABRA2          WATYLNREPVLGVSP---------------------------------------
 GABRA2_02       WATYLNREPVLGVSP---------------------------------------
 GABRA2_03       WATYLNREPVLGVSP---------------------------------------
@@ -1959,11 +2203,20 @@ GABRD_08        ------------------------------------------------------
 GABRD_09        ------------------------------------------------------
 GABRE           WLVCLNL-----------------------------------------------
 GABRP           WAYYMYF-----------------------------------------------
+GABRP_02        ------------------------------------------------------
+GABRP_03        ------------------------------------------------------
+GABRP_04        ------------------------------------------------------
+GABRP_05        ------------------------------------------------------
 GABRQ           WVYHMY------------------------------------------------
 GABRR1          WSIFS-------------------------------------------------
 GABRR2          WSVFS-------------------------------------------------
 GABRR3          WGVYV-------------------------------------------------
 CHRNA1          FAGRLIELNQQG------------------------------------------
+CHRNA1_02       FAGRLIELNQQG------------------------------------------
+CHRNA1_04       ------------------------------------------------------
+CHRNA1_05       FAGRLIELNQQG------------------------------------------
+CHRNA1_06       FAGRLIELNQQG------------------------------------------
+CHRNA1_03       FAGRLIELNQQG------------------------------------------
 CHRNA2          FLPPFLAGMI--------------------------------------------
 CHRNA3          FLQPLMAREDA-------------------------------------------
 CHRNA3_02       ------------------------------------------------------
@@ -2010,6 +2263,8 @@ GLRB            WSIYL-------------------------------------------------
 5HT3A_04        VMLWSIWQYA--------------------------------------------
 5HT3A_05        VMLWSIWQYA--------------------------------------------
 5HT3B           TITLCSLWALWGGV----------------------------------------
+5HT3B_02        TITLCSLWALWGGV----------------------------------------
+5HT3B_03        ------------------------------------------------------
 5HT3C           ILTVIVLWNT--------------------------------------------
 5HT3D           ICLWNT------------------------------------------------
 5HT3D_02        ICLWNT------------------------------------------------
